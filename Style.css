@@ -9,7 +9,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(yellow, purple, brown);
+    background: linear-gradient(yellow, purple, brown, green);
 }
 
 h1{ 
@@ -17,3 +17,4 @@ h1{
     font-size: 13rem;
     font-style: italic;
 }
+
