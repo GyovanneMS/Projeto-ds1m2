@@ -9,7 +9,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(red, yellow, purple);
+    background: linear-gradient(yellow, purple, brown);
 }
 
 h1{ 
